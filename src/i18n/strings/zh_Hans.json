@@ -1299,7 +1299,6 @@
         "notification_settings": "通知设置",
         "notification_settings_beta_caption": "引入一种更简单的方式来更改通知设置。以你喜欢的方式定制%(brand)s。",
         "notification_settings_beta_title": "通知设置",
-        "pinning": "消息置顶",
         "report_to_moderators": "报告给协管员",
         "report_to_moderators_description": "在支持审核的房间中，“报告”按钮将让你向房间协管员举报滥用行为。",
         "sliding_sync": "滑动同步模式",

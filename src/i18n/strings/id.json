@@ -1400,7 +1400,6 @@
         "notification_settings_beta_title": "Pengaturan Notifikasi",
         "notifications": "Aktifkan panel notifikasi di tajuk ruangan",
         "oidc_native_flow": "Autentikasi asli OIDC",
-        "pinning": "Pin Pesan",
         "render_reaction_images": "Render gambar khusus dalam reaksi",
         "render_reaction_images_description": "Terkadang disebut sebagai \"emoji khusus\".",
         "report_to_moderators": "Laporkan ke moderator",

@@ -883,7 +883,6 @@
         "latex_maths": "Atvaizduoti LaTeX matematikas žinutėse",
         "leave_beta": "Palikti beta versiją",
         "msc3531_hide_messages_pending_moderation": "Leisti moderatoriams slėpti žinutes, laukiančias moderavimo.",
-        "pinning": "Žinučių prisegimas",
         "video_rooms": "Vaizdo kambariai",
         "video_rooms_a_new_way_to_chat": "Naujas būdas kalbėtis balsu ir vaizdu per %(brand)s.",
         "video_rooms_always_on_voip_channels": "Vaizdo kambariai - tai visada veikiantys VoIP kanalai, įterpti į %(brand)s kambarį.",

@@ -1417,7 +1417,6 @@
         "notifications": "Povolenie panelu oznámení v záhlaví miestnosti",
         "oidc_native_flow": "Povoliť nové natívne toky OIDC (v štádiu aktívneho vývoja)",
         "oidc_native_flow_description": "⚠ VAROVANIE: Experimentálne. Použite natívne overenie OIDC, ak je podporované serverom.",
-        "pinning": "Pripnutie správ",
         "render_reaction_images": "Vykresľovať vlastné obrázky v reakciách",
         "render_reaction_images_description": "Niekedy sa označujú ako „vlastné emotikony“.",
         "report_to_moderators": "Nahlásiť moderátorom",

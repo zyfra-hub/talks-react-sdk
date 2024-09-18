@@ -1322,7 +1322,6 @@
         "location_share_live_description": "一時的な実装。位置情報がルームの履歴に残ります。",
         "mjolnir": "参加者を無視する新しい方法",
         "msc3531_hide_messages_pending_moderation": "モデレーターに、保留中のモデレーションのメッセージを非表示にすることを許可。",
-        "pinning": "固定メッセージを有効にする",
         "report_to_moderators": "モデレーターに報告",
         "report_to_moderators_description": "モデレートをサポートするルームで「報告」ボタンを使用すると、ルームのモデレーターに問題を報告できます。",
         "sliding_sync": "スライド式同期モード",

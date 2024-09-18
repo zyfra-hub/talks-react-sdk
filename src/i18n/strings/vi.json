@@ -1279,7 +1279,6 @@
         "msc3531_hide_messages_pending_moderation": "Cho phép điều phối viên ẩn các tin nhắn đang chờ duyệt.",
         "notification_settings": "Cài đặt thông báo mới",
         "notification_settings_beta_title": "Cài đặt thông báo",
-        "pinning": "Ghim tin nhắn",
         "report_to_moderators": "Báo cáo cho điều phối viên",
         "report_to_moderators_description": "Trong các phòng hỗ trợ điều phối, nút \"Báo cáo\" sẽ giúp bạn báo cáo lạm dụng cho điều phối viên của phòng.",
         "sliding_sync": "Chế độ đồng bộ tối ưu (Sync v3)",

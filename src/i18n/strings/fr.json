@@ -1459,7 +1459,6 @@
         "notifications": "Active le panneau de notifications dans l’en-tête du salon",
         "oidc_native_flow": "Authentification native OIDC",
         "oidc_native_flow_description": "⚠ ATTENTION : Expérimental. Utilise l’authentification OIDC native lorsqu’elle est prise en charge par le serveur.",
-        "pinning": "Messages épinglés",
         "release_announcement": "Annonce de sortie",
         "render_reaction_images": "Afficher les images personnalisées des réactions",
         "render_reaction_images_description": "Parfois appelés « émojis personnalisés ».",

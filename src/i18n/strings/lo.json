@@ -1187,8 +1187,7 @@
         "jump_to_date": "ໄປຫາວັນທີ (ເພີ່ມ /jumptodate ແລະໄປຫາຫົວຂໍ້ວັນທີ)",
         "latex_maths": "ສະແດງຜົນຄະນິດສາດ LaTeX ໃນຂໍ້ຄວາມ",
         "leave_beta": "ອອກຈາກເບຕ້າ",
-        "msc3531_hide_messages_pending_moderation": "ໃຫ້ຜູ້ຄວບຄຸມການເຊື່ອງຂໍ້ຄວາມທີ່ລໍຖ້າການກັ່ນຕອງ.",
-        "pinning": "ການປັກໝຸດຂໍ້ຄວາມ"
+        "msc3531_hide_messages_pending_moderation": "ໃຫ້ຜູ້ຄວບຄຸມການເຊື່ອງຂໍ້ຄວາມທີ່ລໍຖ້າການກັ່ນຕອງ."
     },
     "labs_mjolnir": {
         "advanced_warning": "⚠ ການຕັ້ງຄ່າເຫຼົ່ານີ້ແມ່ນຫມາຍເຖິງຜູ້ໃຊ້ຂັ້ນສູງ.",

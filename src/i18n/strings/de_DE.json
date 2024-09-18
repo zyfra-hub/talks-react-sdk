@@ -1413,7 +1413,6 @@
         "notifications": "Benachrichtigungen in der Kopfleiste des Raums anschalten",
         "oidc_native_flow": "Native OIDC Authentifizierung",
         "oidc_native_flow_description": "⚠ Warnung: Experimentell. Nutze OIDC native Authentifizierung wenn dies vom Server unterstützt wird.",
-        "pinning": "Nachrichten anheften",
         "render_reaction_images": "Benutzerdefinierte Bilder in Reaktionen anzeigen",
         "render_reaction_images_description": "Werden manchmal auch als „benutzerdefinierte Emojis“ bezeichnet.",
         "report_to_moderators": "An Raummoderation melden",

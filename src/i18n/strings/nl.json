@@ -1192,7 +1192,6 @@
         "leave_beta": "Beta verlaten",
         "leave_beta_reload": "Als je de bèta verlaat, wordt %(brand)s opnieuw geladen.",
         "msc3531_hide_messages_pending_moderation": "Laat moderators berichten verbergen in afwachting van moderatie.",
-        "pinning": "Berichten vastprikken",
         "sliding_sync_server_no_support": "Jouw server heeft geen native ondersteuning",
         "video_rooms": "Video kamers",
         "video_rooms_a_new_way_to_chat": "Een nieuwe manier om te chatten via spraak en video in %(brand)s.",

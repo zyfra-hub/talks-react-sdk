@@ -1308,7 +1308,6 @@
         "mjolnir": "Nuevas maneras de ignorar a otras personas",
         "msc3531_hide_messages_pending_moderation": "Permitir a los moderadores ocultar mensajes a la espera de revisión.",
         "oidc_native_flow": "Activar flujos de OIDC nativos (en desarrollo)",
-        "pinning": "Mensajes anclados",
         "report_to_moderators": "Denunciar ante los moderadores",
         "report_to_moderators_description": "En las salas que sean compatible con la moderación, el botón de «Denunciar» avisará a los moderadores de la sala.",
         "sliding_sync": "Modo de sincronización progresiva",

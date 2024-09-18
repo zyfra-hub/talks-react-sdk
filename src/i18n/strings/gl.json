@@ -1208,7 +1208,6 @@
         "leave_beta": "Saír da beta",
         "leave_beta_reload": "Ao saír da beta volveremos a cargar %(brand)s.",
         "msc3531_hide_messages_pending_moderation": "Permitir que a moderación agoche mensaxes pendentes de moderar.",
-        "pinning": "Fixando mensaxe",
         "sliding_sync_server_no_support": "O teu servidor non ten soporte nativo",
         "video_rooms": "Salas de vídeo",
         "video_rooms_a_new_way_to_chat": "Un novo xeito de conversar con voz e vídeo en %(brand)s.",

@@ -1466,7 +1466,6 @@
         "notifications": "Włącz panel powiadomień w nagłówku pokoju.",
         "oidc_native_flow": "Uwierzytelnianie natywne OIDC",
         "oidc_native_flow_description": "⚠ OSTRZEŻENIE: Funkcja eksperymentalna. Użyj uwierzytelniania natywnego OIDC, gdy jest wspierane przez serwer.",
-        "pinning": "Przypinanie wiadomości",
         "release_announcement": "Ogłoszenie o wydaniu",
         "render_reaction_images": "Renderuj niestandardowe obrazy w reakcjach",
         "render_reaction_images_description": "Czasami określane jako \"emoji niestandardowe\".",

@@ -1424,7 +1424,6 @@
         "notifications": "Zapnout panel oznámení v záhlaví místnosti",
         "oidc_native_flow": "Nativní autentizace OIDC",
         "oidc_native_flow_description": "⚠ VAROVÁNÍ: Experimentální. Použijte nativní ověřování OIDC, pokud je serverem podporováno.",
-        "pinning": "Připíchnutí zprávy",
         "render_reaction_images": "Vykreslování vlastních obrázků v reakcích",
         "render_reaction_images_description": "Někdy se označují jako \"vlastní emoji\".",
         "report_to_moderators": "Nahlásit moderátorům",

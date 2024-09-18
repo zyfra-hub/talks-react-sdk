@@ -1419,7 +1419,6 @@
         "notifications": "Kasuta jututoa päises teavituste riba",
         "oidc_native_flow": "OIDC-põhine autentimine",
         "oidc_native_flow_description": "⚠ HOIATUS: Kasuta OIDC liidestust, kui server seda võimaldab (aktiivselt arendamisel).",
-        "pinning": "Sõnumite esiletõstmine",
         "report_to_moderators": "Teata moderaatoritele",
         "report_to_moderators_description": "Kui jututoas on modereerimine kasutusel, siis nupust „Teata sisust“ avaneva vormi abil saad jututoa reegleid rikkuvast sisust teatada moderaatoritele.",
         "sliding_sync": "Järkjärgulise sünkroniseerimise režiim",

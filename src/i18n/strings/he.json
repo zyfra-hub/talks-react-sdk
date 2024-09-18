@@ -1020,8 +1020,7 @@
         "join_beta_reload": "הצטרפות לפיתוח תטען מחדש את %(brand)s.",
         "jump_to_date": "קיפצו לתאריך (מוסיף /jumptodate וקפוץ לכותרות תאריך)",
         "latex_maths": "בצע מתמטיקה של LaTeX בהודעות",
-        "leave_beta_reload": "עזיבת הניסוי תטען מחדש את %(brand)s.",
-        "pinning": "נעיצת הודעות"
+        "leave_beta_reload": "עזיבת הניסוי תטען מחדש את %(brand)s."
     },
     "labs_mjolnir": {
         "advanced_warning": "⚠ הגדרות אלה מיועדות למשתמשים מתקדמים.",

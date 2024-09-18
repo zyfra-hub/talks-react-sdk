@@ -1423,7 +1423,6 @@
         "notifications": "Aktivera aviseringspanelen i rumshuvudet",
         "oidc_native_flow": "Inbyggd OIDC-autentisering",
         "oidc_native_flow_description": "⚠ VARNING: Experimentellt. Använd inbyggd OIDC-autentisering när den stöds av servern.",
-        "pinning": "Fastnålning av meddelanden",
         "render_reaction_images": "Återge anpassade bilder i reaktioner",
         "render_reaction_images_description": "Ibland kallat för ”anpassade emojis”.",
         "report_to_moderators": "Rapportera till moderatorer",
